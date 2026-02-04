@@ -2,7 +2,7 @@
 
 /**
  * INSTRUCTIONS:
- * Write a PHP class named Person with protected properties first_name, last_name, and age.
+ * Write a PHP class named Person with protected properties firstName, lastName, and age.
  * Add a constructor.
  * Add the getters and setters.
  * Implement a method displayInfo() to display the person's information.
